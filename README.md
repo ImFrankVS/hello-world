@@ -26,15 +26,15 @@ Or better than just info I might put some code for a challenge:
     
     Find the sum of all the multiples of or below 1000.
     
-    ## Answer for Python
-        ```
-        limupper = 1000
-        total_sum = 0
-        
-        for list_of_numbers in range(1, limupper):
-            if list_of_numbers % 3 == 0 or list_of_numbers % 5 == 0:
-                total_sum += list_of_numbers
-        
-        print(total_sum)
-        
-        ```
+## Answer for Python
+    ```
+    limupper = 1000
+    total_sum = 0
+    
+    for list_of_numbers in range(1, limupper):
+        if list_of_numbers % 3 == 0 or list_of_numbers % 5 == 0:
+            total_sum += list_of_numbers
+    
+    print(total_sum)
+    
+    ```
