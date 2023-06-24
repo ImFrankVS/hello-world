@@ -21,7 +21,6 @@ For example I can save some important info to have in mind, but i'm not sure
 Or better than just info I might put some code for a challenge:
 
     If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. 
-    
     The sum of these multiples is 23.
     
     Find the sum of all the multiples of or below 1000.
